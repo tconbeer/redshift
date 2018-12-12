@@ -224,4 +224,3 @@ from (SELECT
   ORDER BY seq
 ) t
  ORDER BY table_id,schemaname, tablename, seq
-;
