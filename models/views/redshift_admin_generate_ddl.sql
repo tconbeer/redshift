@@ -1,3 +1,4 @@
+-- SOURCE: https://github.com/awslabs/amazon-redshift-utils/blob/master/src/AdminViews/v_generate_tbl_ddl.sql
  SELECT
   table_id
   ,schemaname
